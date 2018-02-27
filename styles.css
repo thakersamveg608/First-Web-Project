@@ -55,7 +55,7 @@ input[type=submit] {
 }
 
 @media screen and (max-width:650px) {
-    .container{
+    .credentials{
         width: 95%;
     }
 }
